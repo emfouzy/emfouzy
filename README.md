@@ -128,9 +128,10 @@ WooCommerce online store for traditional Indonesian fashion.
 
 ## 📜 Certifications
 
-- Introduction to UX/UI Design
-- Fundamentals of UI/UX Design
-- Intermediate to Advanced: Professional Figma UI/UX Design
+- Google UX Design Certificate
+- IBM UX/UI Design
+- Microsoft UI/UX Fundamentals
+- Skillshare Intermediate to Advanced: Professional Figma UI / UX Design
 - Figma Pro Pt. 1: Auto Layouts, Grids & Components
 - Figma Pro Pt. 2: Interactions, Prototyping & UI Motion
 - Bitcoin Multisignature Programming — BlockU *(Grade A · 93/100)*
