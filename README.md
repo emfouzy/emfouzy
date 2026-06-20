@@ -51,7 +51,7 @@ Educational platform helping kids learn through fun trivia and challenges.
 🔗 https://brainych.com
 
 #### 👴 SeniorTechSafe
-Helping seniors navigate technology safely and confidently.
+Helping seniors reviewing and navigate technology confidently.
 
 🔗 https://seniortechsafe.com
 
