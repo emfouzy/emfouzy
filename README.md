@@ -134,7 +134,7 @@ WooCommerce online store for traditional Indonesian fashion.
 - Skillshare Intermediate to Advanced: Professional Figma UI / UX Design
 - Figma Pro Pt. 1: Auto Layouts, Grids & Components
 - Figma Pro Pt. 2: Interactions, Prototyping & UI Motion
-- Bitcoin Multisignature Programming — BlockU *(Grade A · 93/100)*
+- Bitcoin Multisignature Programming — BlockU Academy *(Grade A · 93/100)*
 
 ---
 
