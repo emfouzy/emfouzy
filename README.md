@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Fauzi 👋
 
-### WordPress Developer | WooCommerce Specialist | Elementor Expert | UX/UI Designer
+### Product-Focused UX/UI Designer | Website Builder | WordPress Developer | WooCommerce | Figma | Creating User-Centered Digital Products | Open to Remote Opportunities
 
 🚀 Building fast, SEO-optimized, high-converting web experiences for global businesses.
 
