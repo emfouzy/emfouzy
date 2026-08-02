@@ -7,7 +7,6 @@
 📍 Surakarta, Central Java, Indonesia · Open to remote opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emfouzy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-fumatekno.com-111827?style=flat&logo=google-chrome&logoColor=white)](https://fumatekno.com)
 [![Email](https://img.shields.io/badge/Email-emfouzy@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:emfouzy@gmail.com)
 
 ---
@@ -18,9 +17,8 @@
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 
 
 **UI/UX Design**
@@ -38,7 +36,6 @@
 ![Facebook Ads](https://img.shields.io/badge/Facebook_Ads-1877F2?style=flat&logo=facebook&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-34A853?style=flat&logo=google&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
