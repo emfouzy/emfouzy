@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Fauzi 👋
 
-## Product-Focused UI/UX Designer | E-commerce & Front-End Developer | Open to Remote Opportunities
+## Product-Focused UI/UX Designer | E-commerce & Front-End Developer
 
 I design and build user-centered digital products that improve usability, increase conversions, and support business growth.
 
