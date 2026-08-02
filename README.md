@@ -92,7 +92,7 @@ I'm interested in opportunities where I can:
 | Expesides Tour Guiding | UI/UX Design — Figma | [View on Figma](https://www.figma.com/design/CkfyPPURuIWbbMerA3m3ky/Expesides-Tour-Guiding?node-id=0-1) |
 | Brainy Challenge Books | Web Design — HTML/CSS on Blogger | [brainych.com](https://brainych.com) |
 | Senior Tech Safe | Web Design — HTML/CSS on Blogger | [seniortechsafe.com](https://seniortechsafe.com) |
-| viffoz Shopify | Web Design ecommerce — Shopify Optimization | [seniortechsafe.com](https:https://viffoz.myshopify.com) |
+| Viffoz Shopify | Web Design ecommerce — Shopify Optimization | [Viffoz](https:https://viffoz.myshopify.com) |
 
 ---
 
