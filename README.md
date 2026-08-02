@@ -2,370 +2,260 @@
 
 ## Product-Focused UI/UX Designer | E-commerce & Front-End Developer
 
-I design and build user-centered digital products that improve usability, increase conversions, and support business growth.
+I enjoy turning ideas into digital products that are intuitive, visually clean, and built with real users in mind.
 
-Over the past 3+ years, I've worked across WordPress, WooCommerce, Blogger, and Shopify, combining UX design with front-end development to deliver high-performing websites and e-commerce experiences.
+With over 3 years of experience, I combine UI/UX design and front-end development to build websites, e-commerce stores, and digital platforms using WordPress, WooCommerce, Blogger, and Shopify. I also use AI tools such as Claude, ChatGPT, and Cursor to streamline my workflow while ensuring every design and implementation decision remains my responsibility.
 
-I also leverage AI tools such as Claude, ChatGPT, and Cursor to accelerate development while ensuring every design and implementation decision remains thoughtful and user-focused.
-
-📍 Surakarta, Central Java, Indonesia · Open to remote opportunities
+📍 Surakarta, Central Java, Indonesia  
+🌏 Open to Remote Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emfouzy)
 [![Email](https://img.shields.io/badge/Email-emfouzy@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:emfouzy@gmail.com)
 
 ---
 
-## Skills
+# Skills
 
-**Web Development**
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
-
-
-**UI/UX Design**
+### Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Wireframing](https://img.shields.io/badge/Wireframing-6366F1?style=flat&logoColor=white)
-![Prototyping](https://img.shields.io/badge/Prototyping-8B5CF6?style=flat&logoColor=white)
-![Design Thinking](https://img.shields.io/badge/Design_Thinking-EC4899?style=flat&logoColor=white)
-![User Research](https://img.shields.io/badge/User_Research-14B8A6?style=flat&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Web_Design-0EA5E9?style=flat&logoColor=white)
+![Wireframing](https://img.shields.io/badge/Wireframing-6366F1?style=flat)
+![Prototype](https://img.shields.io/badge/Prototype-8B5CF6?style=flat)
+![User Research](https://img.shields.io/badge/User_Research-14B8A6?style=flat)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0EA5E9?style=flat)
 
+### Development
 
-**Marketing & Tools**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 
-![Facebook Ads](https://img.shields.io/badge/Facebook_Ads-1877F2?style=flat&logo=facebook&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-34A853?style=flat&logo=google&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+### AI & Tools
+
+![Claude](https://img.shields.io/badge/Claude-AI-orange?style=flat)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI-10A37F?style=flat)
+![Cursor](https://img.shields.io/badge/Cursor-AI-black?style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## Professional Highlights
+# Professional Highlights
 
-- 3+ years of experience in UI/UX design and front-end development
-- Built websites across Blogger, WordPress, WooCommerce, and Shopify
-- Designed user-centered experiences for e-commerce, business, and donation platforms
-- Experienced with AI-assisted development using Claude, ChatGPT, and Cursor
-- Passionate about creating products that balance user needs with business goals
-
----
-  
-## What I Bring
-
-- End-to-end UX/UI design from research to implementation
-- WordPress, WooCommerce, Blogger, and Shopify development
-- Conversion-focused landing pages and product pages
-- AI-assisted development workflows
-- Responsive and mobile-first design
-- Strong understanding of usability and business goals
+- 3+ years of experience in UI/UX Design and Front-End Development
+- Built websites using Blogger, WordPress, WooCommerce, and Shopify
+- Designed e-commerce, business, and donation platforms
+- Experienced with AI-assisted development workflows
+- Focused on usability, accessibility, and conversion-oriented design
 
 ---
 
-## What I'm Looking For
+# What I Bring
 
-I'm interested in opportunities where I can:
-
-• Design meaningful digital products
-
-• Improve user experiences through research and iteration
-
-• Build modern e-commerce solutions
-
-• Collaborate with cross-functional teams
-
-• Continue growing as a Product Designer
-
----
-
-## Portfolio
-
-| Project | Type | Link |
-|---|---|---|
-| MPU Surakarta | Midtrans — Donation Gateway | [mpusurakarta](mpusurakarta) |
-| Lurikprasojo | WooCommerce — WordPress | [lurikprasojo.id](https://lurikprasojo.id) |
-| Fumatekno | Web Development — WordPress Elementor | [fumatekno.com](https://fumatekno.com) |
-| Lebahtani | Landing page — Blogger | [lebahtani.com](https://lebahtani.com) |
-| Expesides Tour Guiding | UI/UX Design — Figma | [View on Figma](https://www.figma.com/design/CkfyPPURuIWbbMerA3m3ky/Expesides-Tour-Guiding?node-id=0-1) |
-| Brainy Challenge Books | Web Design — HTML/CSS on Blogger | [brainych.com](https://brainych.com) |
-| Senior Tech Safe | Web Design — HTML/CSS on Blogger | [seniortechsafe.com](https://seniortechsafe.com) |
-| Viffoz Shopify | Web Design ecommerce — Shopify Optimization | [Viffoz](https:https://viffoz.myshopify.com) |
-
----
-
-## Work Experience
-
-**Visual Designer & Content Strategist** · SMEs Indonesia *(Mar 2022 – Present)*
-> Achieved consistent brand identity for 10+ local SMEs through logos, graphics, and video content, resulting in stronger social media engagement across platforms.
-
-**Web Developer, UI/UX Designer & Digital Marketing Specialist** · Indonesia SME's Honey Brand *(Feb 2022 – Dec 2024)*
-> Achieved 50% growth in monthly customer inquiries by redesigning the brand's website UI and executing Facebook Ads campaigns over 2+ years.
-
-**UI/UX Designer & Web Developer** · Fumatekno.com *(Jun – Jul 2023)*
-> Achieved a client-ready IT services website by translating requirements into a custom Elementor WordPress build, delivered end-to-end within 2 months.
-
----
-
-## Certifications
-
-- Google UX Design Certificate
-- IBM UX/UI Design
-- Microsoft UI/UX Fundamentals
-- Skillshare Intermediate to Advanced: Professional Figma UI / UX Design
-- Figma Pro Pt. 1: Auto Layouts, Grids & Components
-- Figma Pro Pt. 2: Interactions, Prototyping & UI Motion
-- Bitcoin Multisignature Programming — BlockU Academy *(Grade A · 93/100)*
-
----
-
-## 🌐 Languages
-
-🇮🇩 Indonesian (Native) · 🇬🇧 English (Professional Working Proficiency)
-
-
----
-
-## Core Skills
-
-### UX & Product Design
-
-- UX Research
-- User Flow
-- Wireframing
-- Prototyping
-- Information Architecture
-- Responsive Design
-- Design Systems
-- Conversion-Focused Design
-
-### Development
-
-- HTML
-- CSS
-- JavaScript
-- WordPress
-- WooCommerce
-- Shopify
-- Shopify Liquid
-- Elementor
-
-### Analytics & Optimization
-
-- Google Analytics
-- Google Search Console
-- Microsoft Clarity
-- Conversion Rate Optimization (CRO)
-
-### AI-Assisted Workflow
-
-- Claude
-- ChatGPT
-- Cursor
+- End-to-end UX/UI Design
+- Front-End Development
+- WordPress & WooCommerce Development
+- Shopify Theme Customization
+- Responsive Web Design
+- Conversion-Focused Landing Pages
+- AI-Assisted Development Workflow
 
 ---
 
 # Featured Projects
 
----
-
 ## MPU Donation Platform
 
-**Live Project**
+**Role**
 
-https://www.facebook.com/mpu.surakarta.1/
+UI/UX Designer • WordPress Developer
 
-### Tech Stack
+**Tech Stack**
 
-- Figma
-- WordPress
-- Elementor
-- Midtrans
-- QRIS
-- GoPay
-- OVO
-- DANA
+Figma • WordPress • Elementor • Midtrans
 
-Designed and developed an online donation platform from UX wireframes through deployment. Integrated Midtrans payment gateway to support multiple payment methods while delivering a responsive and user-friendly donation experience.
+**Overview**
+
+Designed and developed an online donation platform with Midtrans payment integration supporting multiple payment methods.
+
+**Project**
+
+Private Client Project
 
 ---
 
 ## Lurikprasojo.id
 
-**Live Website**
+**Role**
+
+WooCommerce Developer
+
+**Tech Stack**
+
+WordPress • WooCommerce • Elementor
+
+**Website**
 
 https://lurikprasojo.id
 
-### Tech Stack
+**Overview**
 
-- WordPress
-- WooCommerce
-- Elementor
-
-Developed and optimized an e-commerce website for a traditional Indonesian fashion brand. Improved product organization, category navigation, and checkout flow to create a smoother shopping experience.
+Developed and optimized an e-commerce website, improving product organization, navigation, and checkout experience.
 
 ---
 
-## Fumatekno.com
+## Fumatekno
 
-**Live Website**
+**Role**
+
+UI/UX Designer • WordPress Developer
+
+**Tech Stack**
+
+WordPress • Elementor
+
+**Website**
 
 https://fumatekno.com
 
-### Tech Stack
+**Overview**
 
-- WordPress
-- Elementor
-
-Designed and developed a corporate website for an IT solutions company using WordPress and Elementor. Focused on responsive layouts, clear information architecture, and a professional user experience.
+Designed and developed a responsive corporate website with a clear information architecture for an IT solutions company.
 
 ---
 
-## Lebahtani.com
+## Lebahtani
 
-**Live Website**
+**Role**
+
+UI/UX Designer • Front-End Developer
+
+**Tech Stack**
+
+Blogger • HTML • CSS • JavaScript • Claude • ChatGPT
+
+**Website**
 
 https://lebahtani.com
 
-### Tech Stack
+**Overview**
 
-- Blogger
-- HTML
-- CSS
-- JavaScript
-- Claude AI
-- ChatGPT
-
-Designed and developed a business website using Blogger with custom HTML, CSS, and JavaScript. Focused on creating clean landing pages, improving usability, and building a fast, responsive user experience. Used AI-assisted workflows to accelerate front-end development while maintaining full control over implementation.
+Built a fast and responsive business website with custom front-end development while leveraging AI to accelerate implementation.
 
 ---
 
-## Brainych.com
+## Brainych
 
-**Live Website**
+**Role**
+
+UI/UX Designer • Front-End Developer
+
+**Tech Stack**
+
+Blogger • HTML • CSS • JavaScript • Claude • ChatGPT
+
+**Website**
 
 https://brainych.com
 
-### Tech Stack
+**Overview**
 
-- Blogger
-- HTML
-- CSS
-- JavaScript
-- Claude AI
-- ChatGPT
-
-Designed and developed an educational platform for Amazon KDP publications using Blogger with custom HTML, CSS, and JavaScript. Leveraged AI tools to streamline content planning, front-end development, and continuous improvements.
+Designed and developed an educational platform for Amazon KDP publications using Blogger and custom front-end technologies.
 
 ---
 
-## SeniorTechSafe.com
+## SeniorTechSafe
 
-**Live Website**
+**Role**
+
+UI/UX Designer • Front-End Developer
+
+**Tech Stack**
+
+Blogger • HTML • CSS • JavaScript • Claude • ChatGPT
+
+**Website**
 
 https://seniortechsafe.com
 
-### Tech Stack
+**Overview**
 
-- Blogger
-- HTML
-- CSS
-- JavaScript
-- Claude AI
-- ChatGPT
-
-Built an educational website that helps senior users learn technology in a simple and accessible way. Developed with Blogger, custom HTML, CSS, and JavaScript while using AI-assisted workflows to improve development speed and content organization.
+Developed an educational website that helps senior users learn technology through a clean and accessible user experience.
 
 ---
 
-## Viffoz
+## Viffoz Shopify
 
-**Live Website**
+**Role**
+
+UI/UX Designer • Shopify Developer
+
+**Tech Stack**
+
+Shopify • Horizon Theme • Shopify Liquid • Claude • ChatGPT
+
+**Website**
 
 https://viffoz.myshopify.com/
 
-### Tech Stack
+**Overview**
 
-- Shopify
-- Horizon Theme
-- Shopify Liquid
-- Claude AI
-- ChatGPT
-
-Built a Shopify storefront using Shopify's Horizon theme as the foundation. Customized layouts, reusable sections, and user experience while leveraging Claude AI to accelerate Shopify Liquid development. Every implementation was reviewed and refined manually to ensure usability, responsiveness, and business-focused outcomes.
+Customized Shopify's Horizon theme, developed reusable Liquid sections, and optimized the storefront for responsiveness and usability using an AI-assisted workflow.
 
 ---
 
-# Design Process
+# Professional Experience
 
-Research
+### Visual Designer & Content Strategist
+**SMEs Indonesia** *(Mar 2022 – Present)*
 
-↓
+Created visual identities, marketing assets, and digital content for local businesses across multiple industries.
 
-Define Problems
+### UI/UX Designer, Web Developer & Digital Marketing Specialist
+**Indonesia SME Honey Brand** *(Feb 2022 – Dec 2024)*
 
-↓
+Redesigned the company website and supported digital marketing campaigns that contributed to increased customer inquiries.
 
-Information Architecture
+### UI/UX Designer & WordPress Developer
+**Fumatekno** *(Jun 2023 – Jul 2023)*
 
-↓
+Designed and developed a corporate website using WordPress and Elementor from planning through deployment.
 
-Wireframing
+---
 
-↓
+# Certifications
 
-UI Design
-
-↓
-
-Prototype
-
-↓
-
-Development
-
-↓
-
-Testing
-
-↓
-
-Iteration
+- Google UX Design Certificate
+- IBM UX/UI Design
+- Microsoft UI/UX Fundamentals
+- Professional Figma UI/UX Design
+- Figma Pro: Auto Layout, Components & Prototyping
 
 ---
 
 # AI Workflow
 
-AI helps me move faster.
+AI accelerates my workflow, while design decisions, implementation, and quality remain my responsibility.
 
-Design decisions remain mine.
-
-### Claude
-
-- Shopify Liquid Development
+**Claude**
+- Shopify Liquid
 - WordPress Development
 - Debugging
 - Documentation
-- Technical Problem Solving
 
-### ChatGPT
-
+**ChatGPT**
 - UX Brainstorming
-- User Flow
 - Information Architecture
+- Content Strategy
 - Copywriting
-- Documentation
 
-### Cursor
-
+**Cursor**
 - Code Generation
 - Refactoring
 - HTML
 - CSS
 - JavaScript
-- Debugging
 
 ---
 
@@ -374,45 +264,34 @@ Design decisions remain mine.
 - Advanced Shopify Development
 - Shopify Theme Architecture
 - Shopify Liquid
-- Conversion Rate Optimization
+- Conversion Rate Optimization (CRO)
 - Accessibility
+- Design Systems
 - Performance Optimization
-- Modern Design Systems
 
 ---
 
-# Open to Opportunities
+# Languages
 
-I'm currently open to remote opportunities involving:
-
-- Product Design
-- UI/UX Design
-- Front-End Development
-- WordPress Development
-- Shopify Development
-- E-commerce
-- SaaS Products
+- Indonesian (Native)
+- English (Professional Working Proficiency)
 
 ---
 
 # Contact
 
-**Email**
+**Portfolio**  
+https://brainych.com
 
-emfouzy@gmail.com
-
-**LinkedIn**
-
-https://linkedin.com/in/emfouzy
-
-**GitHub**
-
+**GitHub**  
 https://github.com/emfouzy
 
-**Portfolio**
+**LinkedIn**  
+https://linkedin.com/in/emfouzy
 
-https://brainych.com
+**Email**  
+emfouzy@gmail.com
 
 ---
 
-> *"Design is not just about creating beautiful interfaces. It's about solving problems, improving experiences, and delivering measurable value."*
+> *"Great digital products are built by understanding users, solving real problems, and continuously improving through data and feedback."*
