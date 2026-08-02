@@ -1,8 +1,12 @@
 # Hi, I'm Mohammad Fauzi 👋
 
-### Product-Focused UX/UI Designer | Website Builder | WordPress Developer | WooCommerce | Figma | Creating User-Centered Digital Products | Open to Remote Opportunities
+## Product-Focused UI/UX Designer | E-commerce & Front-End Developer | Open to Remote Opportunities
 
-🚀 Building fast, SEO-optimized, high-converting web experiences for global businesses.
+I design and build user-centered digital products that improve usability, increase conversions, and support business growth.
+
+Over the past 3+ years, I've worked across WordPress, WooCommerce, Blogger, and Shopify, combining UX design with front-end development to deliver high-performing websites and e-commerce experiences.
+
+I also leverage AI tools such as Claude, ChatGPT, and Cursor to accelerate development while ensuring every design and implementation decision remains thoughtful and user-focused.
 
 📍 Surakarta, Central Java, Indonesia · Open to remote opportunities
 
@@ -40,51 +44,66 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 📚 Brainych
+#### Brainych
 Educational platform helping kids learn through fun trivia and challenges.
 
 🔗 https://brainych.com
 
-#### 👴 SeniorTechSafe
+#### SeniorTechSafe
 Helping seniors reviewing and navigate technology confidently.
 
 🔗 https://seniortechsafe.com
 
-#### 💻 Fumatekno
+#### Fumatekno
 SEO-focused business website built with WordPress & Elementor.
 
 🔗 https://fumatekno.com
 
-#### 🛍️ Lurik Prasojo
+#### Lurik Prasojo
 WooCommerce online store for traditional Indonesian fashion.
 
 🔗 https://lurikprasojo.id
 
 ---
 
-### 🎯 What I Do
+## Professional Highlights
 
-✅ WordPress Development
+- 3+ years of experience in UI/UX design and front-end development
+- Built websites across Blogger, WordPress, WooCommerce, and Shopify
+- Designed user-centered experiences for e-commerce, business, and donation platforms
+- Experienced with AI-assisted development using Claude, ChatGPT, and Cursor
+- Passionate about creating products that balance user needs with business goals
 
-✅ WooCommerce Development
+---
+  
+## What I Bring
 
-✅ Elementor Expert
-
-✅ UX/UI Design
-
-✅ Technical SEO
-
-✅ Conversion Rate Optimization
-
-✅ Landing Page Optimization
-
-✅ Website Performance Optimization
+- End-to-end UX/UI design from research to implementation
+- WordPress, WooCommerce, Blogger, and Shopify development
+- Conversion-focused landing pages and product pages
+- AI-assisted development workflows
+- Responsive and mobile-first design
+- Strong understanding of usability and business goals
 
 ---
 
-### 💡 Current Focus
+## What I'm Looking For
+
+I'm interested in opportunities where I can:
+
+• Design meaningful digital products
+
+• Improve user experiences through research and iteration
+
+• Build modern e-commerce solutions
+
+• Collaborate with cross-functional teams
+
+• Continue growing as a Product Designer
+
+### Current Focus
 
 - Building high-converting websites
 - Improving Core Web Vitals
@@ -97,16 +116,18 @@ WooCommerce online store for traditional Indonesian fashion.
 
 ---
 
-## 🎨 Portfolio
+## Portfolio
 
 | Project | Type | Link |
 |---|---|---|
-| Fumatekno.com | Web Development — WordPress Elementor | [fumatekno.com](https://fumatekno.com) |
-| Expesides Tour Guiding | UI/UX Design — Figma | [View on Figma](https://www.figma.com/design/CkfyPPURuIWbbMerA3m3ky/Expesides-Tour-Guiding?node-id=0-1) |
-| Lurikprasojo.id | WooCommerce — WordPress | [lurikprasojo.id](https://lurikprasojo.id) |
 | MPU Surakarta | Midtrans — Donation Gateway | [mpusurakarta](mpusurakarta) |
+| Lurikprasojo | WooCommerce — WordPress | [lurikprasojo.id](https://lurikprasojo.id) |
+| Fumatekno | Web Development — WordPress Elementor | [fumatekno.com](https://fumatekno.com) |
+| Lebahtani | Landing page — Blogger | [lebahtani.com](https://lebahtani.com) |
+| Expesides Tour Guiding | UI/UX Design — Figma | [View on Figma](https://www.figma.com/design/CkfyPPURuIWbbMerA3m3ky/Expesides-Tour-Guiding?node-id=0-1) |
 | Brainy Challenge Books | Web Design — HTML/CSS on Blogger | [brainych.com](https://brainych.com) |
 | Senior Tech Safe | Web Design — HTML/CSS on Blogger | [seniortechsafe.com](https://seniortechsafe.com) |
+| viffoz Shopify | Web Design ecommerce — Shopify Optimization | [seniortechsafe.com](https:https://viffoz.myshopify.com) |
 
 ---
 
