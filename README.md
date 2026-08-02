@@ -159,3 +159,312 @@ I'm interested in opportunities where I can:
 ## 🌐 Languages
 
 🇮🇩 Indonesian (Native) · 🇬🇧 English (Professional Working Proficiency)
+
+# Mohammad Fauzi
+
+**Product-Focused UI/UX Designer | Front-End Developer | WordPress • WooCommerce • Shopify • AI-Assisted Development**
+
+I design and build user-centered digital products that improve usability, increase conversions, and support business growth.
+
+Over the past 3+ years, I've worked with SMEs and international clients to create websites, e-commerce stores, landing pages, and digital platforms using WordPress, WooCommerce, Shopify, Blogger, and modern AI-assisted development workflows.
+
+My goal is simple: build digital experiences that are intuitive, performant, and deliver measurable business value.
+
+---
+
+## About Me
+
+I'm passionate about solving business problems through thoughtful design and practical development.
+
+My experience covers the complete workflow—from UX research and wireframing to UI design, front-end implementation, CMS customization, and continuous optimization.
+
+Recently, I've been expanding my expertise in Shopify development using the Horizon theme, Shopify Liquid, and AI-assisted workflows with Claude, ChatGPT, and Cursor.
+
+---
+
+## Core Skills
+
+### UX & Product Design
+
+- UX Research
+- User Flow
+- Wireframing
+- Prototyping
+- Information Architecture
+- Responsive Design
+- Design Systems
+- Conversion-Focused Design
+
+### Development
+
+- HTML
+- CSS
+- JavaScript
+- WordPress
+- WooCommerce
+- Shopify
+- Shopify Liquid
+- Elementor
+
+### Analytics & Optimization
+
+- Google Analytics
+- Google Search Console
+- Microsoft Clarity
+- Conversion Rate Optimization (CRO)
+
+### AI-Assisted Workflow
+
+- Claude
+- ChatGPT
+- Cursor
+
+---
+
+# Featured Projects
+
+---
+
+## MPU Donation Platform
+
+**Live Project**
+
+https://www.facebook.com/mpu.surakarta.1/
+
+### Tech Stack
+
+- Figma
+- WordPress
+- Elementor
+- Midtrans
+- QRIS
+- GoPay
+- OVO
+- DANA
+
+Designed and developed an online donation platform from UX wireframes through deployment. Integrated Midtrans payment gateway to support multiple payment methods while delivering a responsive and user-friendly donation experience.
+
+---
+
+## Lurikprasojo.id
+
+**Live Website**
+
+https://lurikprasojo.id
+
+### Tech Stack
+
+- WordPress
+- WooCommerce
+- Elementor
+
+Developed and optimized an e-commerce website for a traditional Indonesian fashion brand. Improved product organization, category navigation, and checkout flow to create a smoother shopping experience.
+
+---
+
+## Fumatekno.com
+
+**Live Website**
+
+https://fumatekno.com
+
+### Tech Stack
+
+- WordPress
+- Elementor
+
+Designed and developed a corporate website for an IT solutions company using WordPress and Elementor. Focused on responsive layouts, clear information architecture, and a professional user experience.
+
+---
+
+## Lebahtani.com
+
+**Live Website**
+
+https://lebahtani.com
+
+### Tech Stack
+
+- Blogger
+- HTML
+- CSS
+- JavaScript
+- Claude AI
+- ChatGPT
+
+Designed and developed a business website using Blogger with custom HTML, CSS, and JavaScript. Focused on creating clean landing pages, improving usability, and building a fast, responsive user experience. Used AI-assisted workflows to accelerate front-end development while maintaining full control over implementation.
+
+---
+
+## Brainych.com
+
+**Live Website**
+
+https://brainych.com
+
+### Tech Stack
+
+- Blogger
+- HTML
+- CSS
+- JavaScript
+- Claude AI
+- ChatGPT
+
+Designed and developed an educational platform for Amazon KDP publications using Blogger with custom HTML, CSS, and JavaScript. Leveraged AI tools to streamline content planning, front-end development, and continuous improvements.
+
+---
+
+## SeniorTechSafe.com
+
+**Live Website**
+
+https://seniortechsafe.com
+
+### Tech Stack
+
+- Blogger
+- HTML
+- CSS
+- JavaScript
+- Claude AI
+- ChatGPT
+
+Built an educational website that helps senior users learn technology in a simple and accessible way. Developed with Blogger, custom HTML, CSS, and JavaScript while using AI-assisted workflows to improve development speed and content organization.
+
+---
+
+## Viffoz
+
+**Live Website**
+
+https://viffoz.myshopify.com/
+
+### Tech Stack
+
+- Shopify
+- Horizon Theme
+- Shopify Liquid
+- Claude AI
+- ChatGPT
+
+Built a Shopify storefront using Shopify's Horizon theme as the foundation. Customized layouts, reusable sections, and user experience while leveraging Claude AI to accelerate Shopify Liquid development. Every implementation was reviewed and refined manually to ensure usability, responsiveness, and business-focused outcomes.
+
+---
+
+# Design Process
+
+Research
+
+↓
+
+Define Problems
+
+↓
+
+Information Architecture
+
+↓
+
+Wireframing
+
+↓
+
+UI Design
+
+↓
+
+Prototype
+
+↓
+
+Development
+
+↓
+
+Testing
+
+↓
+
+Iteration
+
+---
+
+# AI Workflow
+
+I use AI as a productivity tool to accelerate design and development while keeping creative and technical decisions under my control.
+
+### Claude
+
+- Shopify Liquid Development
+- WordPress Development
+- Debugging
+- Documentation
+- Technical Problem Solving
+
+### ChatGPT
+
+- UX Brainstorming
+- User Flow
+- Information Architecture
+- Copywriting
+- Documentation
+
+### Cursor
+
+- Code Generation
+- Refactoring
+- HTML
+- CSS
+- JavaScript
+- Debugging
+
+---
+
+# Currently Learning
+
+- Advanced Shopify Development
+- Shopify Theme Architecture
+- Shopify Liquid
+- Conversion Rate Optimization
+- Accessibility
+- Performance Optimization
+- Modern Design Systems
+
+---
+
+# Open to Opportunities
+
+I'm currently open to remote opportunities involving:
+
+- Product Design
+- UI/UX Design
+- Front-End Development
+- WordPress Development
+- Shopify Development
+- E-commerce
+- SaaS Products
+
+---
+
+# Contact
+
+**Email**
+
+emfouzy@gmail.com
+
+**LinkedIn**
+
+https://linkedin.com/in/emfouzy
+
+**GitHub**
+
+https://github.com/emfouzy
+
+**Portfolio**
+
+https://brainych.com
+
+---
+
+> *"I believe great digital products are created by combining thoughtful design, clean implementation, continuous learning, and measurable business impact."*
