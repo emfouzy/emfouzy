@@ -15,7 +15,7 @@ I also leverage AI tools such as Claude, ChatGPT, and Cursor to accelerate devel
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Web Development**
 
@@ -41,30 +41,6 @@ I also leverage AI tools such as Claude, ChatGPT, and Cursor to accelerate devel
 ![SEO](https://img.shields.io/badge/SEO-34A853?style=flat&logo=google&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-### Featured Projects
-
-#### Brainych
-Educational platform helping kids learn through fun trivia and challenges.
-
-🔗 https://brainych.com
-
-#### SeniorTechSafe
-Helping seniors reviewing and navigate technology confidently.
-
-🔗 https://seniortechsafe.com
-
-#### Fumatekno
-SEO-focused business website built with WordPress & Elementor.
-
-🔗 https://fumatekno.com
-
-#### Lurik Prasojo
-WooCommerce online store for traditional Indonesian fashion.
-
-🔗 https://lurikprasojo.id
 
 ---
 
@@ -103,17 +79,6 @@ I'm interested in opportunities where I can:
 
 • Continue growing as a Product Designer
 
-### Current Focus
-
-- Building high-converting websites
-- Improving Core Web Vitals
-- Growing Brainych
-- Remote WordPress opportunities
-
----
-
-> Building websites that don't just look good — they generate results.
-
 ---
 
 ## Portfolio
@@ -131,7 +96,7 @@ I'm interested in opportunities where I can:
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 **Visual Designer & Content Strategist** · SMEs Indonesia *(Mar 2022 – Present)*
 > Achieved consistent brand identity for 10+ local SMEs through logos, graphics, and video content, resulting in stronger social media engagement across platforms.
@@ -144,7 +109,7 @@ I'm interested in opportunities where I can:
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Google UX Design Certificate
 - IBM UX/UI Design
@@ -160,25 +125,6 @@ I'm interested in opportunities where I can:
 
 🇮🇩 Indonesian (Native) · 🇬🇧 English (Professional Working Proficiency)
 
-# Mohammad Fauzi
-
-**Product-Focused UI/UX Designer | Front-End Developer | WordPress • WooCommerce • Shopify • AI-Assisted Development**
-
-I design and build user-centered digital products that improve usability, increase conversions, and support business growth.
-
-Over the past 3+ years, I've worked with SMEs and international clients to create websites, e-commerce stores, landing pages, and digital platforms using WordPress, WooCommerce, Shopify, Blogger, and modern AI-assisted development workflows.
-
-My goal is simple: build digital experiences that are intuitive, performant, and deliver measurable business value.
-
----
-
-## About Me
-
-I'm passionate about solving business problems through thoughtful design and practical development.
-
-My experience covers the complete workflow—from UX research and wireframing to UI design, front-end implementation, CMS customization, and continuous optimization.
-
-Recently, I've been expanding my expertise in Shopify development using the Horizon theme, Shopify Liquid, and AI-assisted workflows with Claude, ChatGPT, and Cursor.
 
 ---
 
@@ -392,7 +338,9 @@ Iteration
 
 # AI Workflow
 
-I use AI as a productivity tool to accelerate design and development while keeping creative and technical decisions under my control.
+AI helps me move faster.
+
+Design decisions remain mine.
 
 ### Claude
 
@@ -467,4 +415,4 @@ https://brainych.com
 
 ---
 
-> *"I believe great digital products are created by combining thoughtful design, clean implementation, continuous learning, and measurable business impact."*
+> *"Design is not just about creating beautiful interfaces. It's about solving problems, improving experiences, and delivering measurable value."*
