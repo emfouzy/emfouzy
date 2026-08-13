@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Fauzi 👋
 
-## Product-Focused UX/UI Designer | WordPress & Shopify Developer | WooCommerce Specialist
+## AI Product Designer | UI/UX Designer | Front-End & AI Solutions Developer | WordPress & Shopify Developer | Open to Remote Opportunities
 
 I enjoy turning ideas into digital products that are intuitive, visually clean, and built with real users in mind.
 
