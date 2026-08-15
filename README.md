@@ -1,10 +1,10 @@
 # Hi, I'm Mohammad Fauzi 👋
 
-## AI Product Designer | UI/UX Designer | Front-End & AI Solutions Developer | WordPress & Shopify Developer | Open to Remote Opportunities
+## AI Product Designer & UX/UI Developer | WordPress & Shopify Developer | Open to Remote Opportunities
 
 I enjoy turning ideas into digital products that are intuitive, visually clean, and built with real users in mind.
 
-With over 3 years of experience, I combine UX/UI design and development to build conversion-optimized websites, e-commerce stores, and user-centered landing pages — using WordPress/Elementor, WooCommerce, Shopify (Liquid), and Blogger. I also use AI tools such as Claude, Cursor, and ChatGPT to accelerate my workflow, while every design and implementation decision remains my responsibility.
+With over 3 years of experience, I combine UX/UI design and development to build conversion-optimized websites, e-commerce stores, and user-centered landing pages — using WordPress/Elementor, WooCommerce, Shopify (Liquid), and Blogger. I'm expanding into AI product design and AI agent workflows, applying generative AI tools such as Claude, Cursor, and ChatGPT across design, development, and growth marketing to accelerate delivery, while every design and implementation decision remains my responsibility.
 
 📍 Surakarta, Central Java, Indonesia
 🌏 Open to Remote Opportunities
@@ -24,6 +24,15 @@ With over 3 years of experience, I combine UX/UI design and development to build
 ![User Research](https://img.shields.io/badge/User_Research-14B8A6?style=flat)
 ![Information Architecture](https://img.shields.io/badge/Information_Architecture-0891B2?style=flat)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-0EA5E9?style=flat)
+![Design Systems](https://img.shields.io/badge/Design_Systems-6D28D9?style=flat)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-059669?style=flat)
+
+### AI & Product
+
+![AI Product Design](https://img.shields.io/badge/AI_Product_Design-F97316?style=flat)
+![Generative AI](https://img.shields.io/badge/Generative_AI-F97316?style=flat)
+![AI Agent Workflows](https://img.shields.io/badge/AI_Agent_Workflows-F97316?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F97316?style=flat)
 
 ### Development
 
@@ -53,6 +62,7 @@ With over 3 years of experience, I combine UX/UI design and development to build
 - Designed and developed a full donation platform end-to-end, from Figma wireframes to WordPress deployment, with multi-channel payment gateway integration (Midtrans)
 - Customized a Shopify Horizon theme storefront, building reusable Liquid sections and optimizing for responsiveness and usability using an AI-assisted workflow
 - Delivered 10+ client websites and landing pages across e-commerce, services, and education sectors since 2022
+- Actively expanding into AI product design and AI agent workflows, applying generative AI tools to design, development, and growth marketing tasks
 
 ---
 
@@ -151,11 +161,21 @@ Delivered 10+ websites, landing pages, and branding assets across e-commerce, ed
 
 # Certifications
 
+**AI (2026)**
+- Gen AI Agents: Transform Your Organization — Google Cloud
+- Preparing for AI-900: Microsoft Azure AI Fundamentals Exam — Microsoft
+- Generative AI for Growth Marketing — IBM
+- Google AI — Google
+- ChatGPT: Master Free AI Tools to Supercharge Productivity — Vanderbilt University
+
+**UX/UI**
 - Google UX Design Certificate — Google
 - IBM UX/UI Design — IBM
 - Microsoft UI/UX Fundamentals — Microsoft
 - Professional Figma UI/UX Design (Intermediate to Advanced) — Skillshare
 - Figma Pro: Auto Layout, Components & Prototyping
+
+**Other**
 - Bitcoin Multisignature Programming — BlockU Academy
 
 ---
